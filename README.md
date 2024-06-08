@@ -3,7 +3,7 @@
 ## Overview
 This Flutter application enables users to rent cars and view detailed reservation information. It utilizes GetX for state management.
 
-![Screenrecorder-2024-06-09-00-35-47-230](https://github.com/Noctambulist-007/car_rental/assets/137734510/849ea37c-325e-46a2-a333-ca86f84cf319)
+![Screenrecorder-2024-06-09-00-35-47-230 (1)](https://github.com/Noctambulist-007/car_rental/assets/137734510/3e00486e-00ea-4b55-b87f-b5aae68ecd54)
 
 ## How to Run Locally
 To run this application locally, follow these steps:
